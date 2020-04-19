@@ -1,4 +1,4 @@
-/**
+package array; /**
  * @program: Week_01
  * @description:
  * @author: ljd
