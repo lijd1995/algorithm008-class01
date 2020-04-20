@@ -12,5 +12,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 ### IDE
-.idea
+Week_01/.idea
 leetcode
