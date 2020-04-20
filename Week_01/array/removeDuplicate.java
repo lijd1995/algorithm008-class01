@@ -1,4 +1,4 @@
-/**
+package array; /**
  * @program: Week_01
  * @description: 26.删除排序数组中的重复项
  * @author: ljd
