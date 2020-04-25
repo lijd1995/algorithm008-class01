@@ -42,7 +42,8 @@ public class inorderTraversal {
         }
     }
 
-    // 2.通过栈进行遍历,模拟递归的场景
+    // 2.通过栈进行遍历,模拟递归的场景:q:
+
     public List<Integer> inorderTraversal2(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<TreeNode>();
