@@ -20,9 +20,6 @@ public class maxSlidingWindow {
             Arrays.sort(temp);
             res[index++] = temp[k-1];
         }
-
-        Map map = new HashMap();
-        map.getOrDefault()
         return res;
     }
 }
