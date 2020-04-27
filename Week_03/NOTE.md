@@ -1,4 +1,10 @@
-# 每日一题
-https://leetcode-cn.com/problems/two-sum/
-https://leetcode-cn.com/problems/3sum/
-https://leetcode-cn.com/problems/get-kth-magic-number-lcci/
+# 第3周
+## 每日题目
+|日期|序号|难度|题目|知识点|状态|遍数|熟练度|
+|---|---|---|---|---|---|---|---|
+|04-27|1|简单|[两数之和](./towSum)|哈希表|完成|1|熟练
+|04-27|15|中等|[三数之和](./3Sum)|数组，双指针|完成|1|不熟练
+|04-27|面试题 17.09|中等|[第k个数](./getKthMagicNumber)|动态规划|完成|1|不熟练
+## 下周预习
+|序号|难度|题目|知识点|状态|
+|---|---|---|---|---|
