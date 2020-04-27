@@ -14,17 +14,6 @@ import java.util.Queue;
  一个二叉树每个节点 的左右两个子树的高度差的绝对值不超过1。
  */
 public class leetCode {
-    public boolean isBalanced(TreeNode root) {
-        return dept(root)!=-1;
-    }
 
-    public int dept(TreeNode root) {
-        if (root == null) return 0;
-        int left = dept(root.left);
-        if (root == -1) return -1;
-        int right = dept(root.right);
-        if (root == -1) return -1;
-        return Math.abs(left-right) < 2?Math.max(left,right)+1:-1;
 
-    }
 }
