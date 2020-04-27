@@ -90,7 +90,7 @@ public class threeSum {
         return ans;
     }
 
-    public List<List<Integer>> threeSum(int[] num) {
+    public List<List<Integer>> threeSum3(int[] num) {
         Arrays.sort(num);
         List<List<Integer>> res = new LinkedList<>();
         for (int i = 0; i < num.length-2; i++) {
