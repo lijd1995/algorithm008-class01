@@ -1,0 +1,13 @@
+双指针
+```java
+StringBuilder str = new StringBuilder("");
+        int i=num1.length()-1,j=num2.length()-1,carry=0;
+        while (i >=0 || j>=0 || carry!=0){
+            if (i >= 0) carry += num1.charAt(i--)-'0';
+            if (j >= 0) carry += num2.charAt(j--)-'0';
+            str.append(carry%10);
+            carry /= 10;
+        }
+        return str.reverse().toString();
+
+```
