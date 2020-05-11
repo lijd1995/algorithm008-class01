@@ -12,8 +12,7 @@
 |04-29|面试题06|简单|[从尾到头打印链表](./reversePrint)|递归、栈|完成|1|不熟练
 |04-29|面试题68 - II.|简单|[ 二叉树的最近公共祖先](./lowestCommonAncestor)|二叉树|未完成|0|不熟练
 ## 下周预习
-|序号|难度|题目|知识点|状态|
-|---|---|---|---|---|
+|序号|难度|题目|知识点|状态| |---|---|---|---|---|
 
 https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
